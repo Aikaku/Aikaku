@@ -1,7 +1,6 @@
 ### 이상혁 (Aikaku)
 
-#### 🚀 Skills
-**Languages & Tools**  
+#### 🚀 Skills 
 Java | Spring Boot | Git | H2 | C++
 
 #### ⚙️ Activity
