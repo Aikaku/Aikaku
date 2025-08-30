@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=🛸%20AiKaku%20GitHub%20🛸&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=🛸%20AiKaku%20GitHub%20🛸&fontSize=50)
 #### 🚀 Skills 
 <p>
 <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
