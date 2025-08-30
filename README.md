@@ -8,12 +8,12 @@ Java | Spring Boot | Git | H2 | C++
 #### 📂 Project
 
 #### 🏫 School
-    - Hongik Univ.
-        - 주전공 : 광고홍보학부
-        - 복수전공 : 컴퓨터공학과
+- Hongik Univ.
+ - 주전공 : 광고홍보학부
+ - 복수전공 : 컴퓨터공학과
 
 #### 📮 Contact
-    - e-mail : code.stingmon@gmail.com
+- e-mail : code.stingmon@gmail.com
 
 #### 🌊
 
