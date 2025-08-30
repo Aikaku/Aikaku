@@ -1,7 +1,11 @@
-### 이상혁 (Aikaku)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AiKaku%20GitHub&fontSize=70)
 #### 🚀 Skills 
-Java | Spring Boot | Git | H2 | C++
+<p>
+<img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
+<img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/>
+<img src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white/>
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
+</p>
 
 #### ⚙️ Activity
 
@@ -14,6 +18,4 @@ Java | Spring Boot | Git | H2 | C++
 
 #### 📮 Contact
 - e-mail : code.stingmon@gmail.com
-
-#### 🌊
 
