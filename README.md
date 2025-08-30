@@ -1,29 +1,20 @@
-## 이상혁 (Aikaku)
+### 이상혁 (Aikaku)
 
----
-
-### 🛠 Skills
+#### 🚀 Skills
 **Languages & Tools**  
 Java | Spring Boot | Git | H2 | C++
 
----
+#### ⚙️ Activity
 
-### 💡
+#### 📂 Project
 
----
-
-### 🏫 School
+#### 🏫 School
     - Hongik Univ.
         - 주전공 : 광고홍보학부
         - 복수전공 : 컴퓨터공학과
 
----
-
-### 📮 Contact
+#### 📮 Contact
     - e-mail : code.stingmon@gmail.com
 
----
-
-### 🌊 한 줄 소개
-> “코드도 파도처럼, 자연스럽게 흐르게”
+#### 🌊
 
